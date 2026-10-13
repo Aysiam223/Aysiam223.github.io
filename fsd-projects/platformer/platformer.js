@@ -35,9 +35,9 @@ createPlatform(300, 650, 75, 10, "blue");
 createPlatform(500, 550, 70, 10, "red");
 createPlatform(700, 450, 70, 10, "lime");
 createPlatform(900, 650, 70, 10, "lime"); 
-createPlatform(800, 300, 70, 10,"yellow");
-createPlatform(1000, 200, 70, 10,"yellow");
-createPlatform(1200, 100, 70, 10,"yellow");
+createPlatform(800, 350, 70, 10,"yellow");
+createPlatform(950, 280, 70, 10,"yellow");
+createPlatform(1100, 230, 70, 10,"yellow");
 // bright green for a finished platform
 
 
@@ -51,7 +51,7 @@ createCollectable("diamond", 500, 500, 0.5, 0.7);
 
     
     // TODO 4 - Create Cannons
-createCannon("top", 400, 350);
+createCannon("top", 400, 700);
 createCannon("right", 300, 2000);
 createCannon("bottom", 800, 900);
 
